@@ -1,0 +1,55 @@
+.image {
+
+    height:500px ;
+    width: 1000px;
+    margin-bottom: -500px;
+    border-radius: 14px;
+    margin-bottom: -100px;
+
+justify-content: center;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+
+.text{
+
+    justify-content: center;
+}
+.where{
+
+    text-align: center;
+}
+.dining-image{
+
+    height:160px ;
+    margin-left: 10%;
+}
+.panjim-image{
+
+    height: 212px;
+    margin-left: 10%;
+}
+.Hanoi-image{
+
+    height: 167px ;
+    margin-left: 10%;
+}
+.Ho-image{
+
+    height: 212px;
+    margin-left: 10%;
+}
+.north-image{
+
+    height: 159px;
+    margin-left:10%;
+}
+.inside-image{
+
+    height: 157px;
+    margin-left: auto;
+}
