@@ -1,12 +1,12 @@
-.image {
+.image1 {
 
     height:500px ;
     width: 1000px;
-    margin-bottom: -500px;
     border-radius: 14px;
     margin-bottom: -100px;
-
-justify-content: center;
+    justify-content: center;
+    
+        
 }
 h3{
     color: white;
@@ -23,33 +23,82 @@ h4{
 
     text-align: center;
 }
-.dining-image{
+.image{
 
     height:160px ;
     margin-left: 10%;
 }
 .panjim-image{
 
-    height: 212px;
+    height: 189px;
     margin-left: 10%;
 }
 .Hanoi-image{
 
-    height: 167px ;
+    height: 169px ;
     margin-left: 10%;
 }
 .Ho-image{
 
-    height: 212px;
+    height: 189px;
     margin-left: 10%;
 }
 .north-image{
 
-    height: 159px;
+    height: 141px;
     margin-left:10%;
 }
 .inside-image{
 
-    height: 157px;
+    height: 161px;
     margin-left: auto;
+}
+.northen-image{
+    
+    height: 191px;
+    margin-left: 10%;
+}
+.cape-image{
+
+    height: 210px;
+    margin-left: 10%;
+}
+.munchi-image{
+
+    height: 210px;
+    margin-left: 10%;
+}
+.paris-image{
+     
+    height:160px;
+    margin-left: 10%;
+}
+.las-image{
+
+    height: 160px;
+    margin-left: 10%;
+}
+.reykjavik-image{
+
+    height: 160px;
+    margin-left: 10%;
+}
+.back-image{
+
+    height:400px;
+    width: 800px;
+    margin-top:10%;
+    background-color:lightgrey;
+    text-align: center;
+    margin-left:auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.large-image{
+
+    height: 380px;
+    margin: 10px;
+    width: 400px;
 }
