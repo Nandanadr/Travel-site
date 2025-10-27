@@ -45,13 +45,11 @@ h4{
 }
 .north-image{
 
-    height: 141px;
-    margin-left:10%;
+    height: 141px;   
 }
 .inside-image{
 
     height: 161px;
-    margin-left: auto;
 }
 .northen-image{
     
@@ -102,3 +100,27 @@ h4{
     margin: 10px;
     width: 400px;
 }
+.white-image{
+
+    height:400px;
+    width: 1000px;
+    margin-top:10%;
+    background-color:lightgrey;
+    /* text-align: center; */
+    margin-left:auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.chicago-image{
+
+    height: 150px;
+}
+
+.soak-image{
+
+    height: 150px;
+}
+
